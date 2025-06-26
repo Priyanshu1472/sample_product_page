@@ -1,6 +1,5 @@
 // Tailored Shirt Product Component
 import React, { useState } from 'react';
-import { ChevronLeft, ChevronRight, ZoomIn } from 'lucide-react';
 
 const TailoredShirtProduct = () => {
   const [selectedSize, setSelectedSize] = useState("M");
