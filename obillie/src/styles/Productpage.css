@@ -38,7 +38,7 @@ body {
 
 /* Product Gallery Container - Updated for flex layout */
 .product-gallery-container {
-  width: 100%;
+  width: 110%;
   height: 100vh;
   padding: 2rem;
   background: #ffffff;
