@@ -125,21 +125,21 @@
   .icon-button:hover {
     color: black;
   }
-  
+
   .cart-badge {
     position: absolute;
-    top: -0.25rem;
-    right: -0.25rem;
+    top: 0.2rem;
+    right: 0.2rem;
     background-color: black;
     color: white;
     font-size: 0.75rem;
     border-radius: 50%;
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 1rem;
+    height: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
+}
   
   /* Mobile Menu Button */
   .mobile-menu-btn {
@@ -258,19 +258,19 @@
   
   .mobile-cart-badge {
     position: absolute;
-    top: -0.25rem;
-    right: -0.25rem;
+    top: 0.2rem;
+    right: 0.2rem;
     background-color: black;
     color: white;
     font-size: 0.75rem;
     border-radius: 50%;
-    width: 1.25rem;
-    height: 1.25rem;
+    width: 1rem;
+    height: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
+}
+
   /* Responsive Styles */
   @media (min-width: 768px) {
     .navbar-container {
