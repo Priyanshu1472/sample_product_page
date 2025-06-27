@@ -47,7 +47,6 @@ const TailoredShirtProduct = () => {
             ))}
           </div>
         </div>
-        <span className="selected-color">{selectedColor}</span>
       </div>
 
       <div className="selection-section">
