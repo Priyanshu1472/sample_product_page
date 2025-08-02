@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import { ChevronLeft, ChevronRight, ZoomIn } from 'lucide-react';
 import '../styles/ProductImageGallery.css'; // Ensure you have the correct path to your CSS file  
-import img1 from '../assets/image1.png';
-import img2 from '../assets/image2.png';
-import img3 from '../assets/image3.png';
-import img4 from '../assets/image4.png';
+import img1 from '../assets/images.jpeg';
+import img2 from '../assets/images1.jpeg';
+import img3 from '../assets/images2.jpeg';
+import img4 from '../assets/images3.jpeg';
 
 // Product Image Gallery Component
 const ProductImageGallery = () => {

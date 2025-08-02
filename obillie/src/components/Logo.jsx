@@ -6,7 +6,7 @@ const Logo = ({ className = "" }) => {
       {/* <div className="logo-icon"> */}
         {/* <span>O</span> */}
       {/* </div> */}
-      <span className="logo-text">Obillie</span>
+      <span className="logo-text">Sample</span>
     </div>
   );
 };

@@ -19,15 +19,11 @@ const TailoredShirtProduct = () => {
     <div className="product-details">
       <div className="title-section">
         <h1 className="product-title">Tailored Shirt</h1>
-        <h2 className="product-name">Veronica</h2>
+        <h2 className="product-name">Lorem Ipsum</h2>
       </div>
 
       <p className="product-description">
-        A refined essential in Butter Yellow, the Veronica shirt is crafted
-        from a premium cotton blend that feels as graceful as it looks.
-        Featuring a sleek dual-zip front and delicately flounced sleeves, this
-        silhouette blends tailored structure with a feminine ease made to move
-        effortlessly from desk to dinner.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore quas numquam illo impedit architecto beatae quaerat ullam sed consequatur assumenda similique rerum unde sit quia, esse quisquam itaque? Consequuntur, perspiciatis.
       </p>
 
       <div className="selection-section">

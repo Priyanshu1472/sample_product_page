@@ -637,6 +637,8 @@ body {
   margin-bottom: 0.5rem;
   justify-content: center;
   flex-wrap: wrap;
+  overflow: hidden;
+  padding: 0.5rem 0.2rem;
 }
 
 .color-btn {
